@@ -1,4 +1,3 @@
-.highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
@@ -70,6 +69,15 @@ blockquote {
 	margin-left: 0;
 	color: #777;
 	border-left: 4px solid #ddd;
+}
+
+.highlight {
+	background-color: #f8f8ff;
+	overflow: auto;
+	font-size: 0.9em;
+	line-height: 1em;
+	padding-left: 0.5em;
+	border: 1px solid #ddd;
 }
 
 
