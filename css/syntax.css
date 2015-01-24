@@ -64,15 +64,12 @@
 .lineno::-moz-selection {background-color: transparent;} /* Mozilla specific */
 .lineno::selection {background-color: transparent;} /* Other major browsers */
 
-.post > .highlight .lineno { color: #ccc; display:inline-block; padding: 0 5px; border-right:1px solid #ccc; }
-.post > .highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
-
-#post > pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
 
 blockquote {
-  color: #000;
-  margin-left: 20px;
-  font-style: italic;
+	padding: 0 15px;
+	margin-left: 0;
+	color: #777;
+	border-left: 4px solid #ddd;
 }
 
 
