@@ -67,15 +67,7 @@
 .post > .highlight .lineno { color: #ccc; display:inline-block; padding: 0 5px; border-right:1px solid #ccc; }
 .post > .highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
 
-code {
-  font-family: Monaco, 'Courier New', Courier;
-  font-size: 15px;
-  color: #000;
-}
-
-a > code {
-  color: #2B7598;
-}
+#post > pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
 
 blockquote {
   color: #000;
