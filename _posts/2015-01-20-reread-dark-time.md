@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 重读《暗时间》
+comments: true
 ---
 
 
