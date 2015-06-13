@@ -7,7 +7,7 @@ url: http://www.alexcoding.me
 title: Alex Blog
 subtitle: ...and you like it
 gravatar_url: ''
-subscribe_rss: ''
+subscribe_rss: http://www.alexcoding.me/feed.xml
 
 # Github repositories
 github_user: foxlog
