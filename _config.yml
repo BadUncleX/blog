@@ -24,8 +24,12 @@ gaaccount: ''
 disqus: 'alexcoding'
 comments: true
 
+# Disqus Comments
+disqus_short_name: 'alexcoding'
+disqus_show_comment_count: true
+
 permalink: /:year/:month/:title
-paginate: 3
+paginate: 10
 
 highlighter: pygments
 markdown: redcarpet

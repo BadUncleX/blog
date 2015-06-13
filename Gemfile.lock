@@ -123,4 +123,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  RedCloth
   github-pages
+  jemoji
+  kramdown
+  liquid
+  maruku
+  pygments.rb
+  rdiscount
+  redcarpet
