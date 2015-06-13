@@ -6,7 +6,7 @@ description: Alex tech blog
 url: http://www.alexcoding.me
 title: Alex Blog
 subtitle: ...and you like it
-gravatar_url: ''
+# gravatar_url: ''
 subscribe_rss: http://www.alexcoding.me/feed.xml
 
 # Github repositories
