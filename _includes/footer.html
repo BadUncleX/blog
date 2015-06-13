@@ -1,15 +1,6 @@
-<div class="container-fluid">
-    <div class="row-fluid">
-        <div class="span12 footer navbar-inverse navbar-fixed-bottom">
-            <p class="copyright">&copy;{{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/scotte/jekyll-clean">Scott Emmons</a>
-            under
-            <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</a></p>
-        </div>
-    </div>
-</div>
+<p>
+  Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} Blog content licensed under the Creative Commons <a href="http://creativecommons.org/licenses/by/2.5/">CC BY 2.5</a> | Site design based on the <a href="https://github.com/shashankmehta/greyshade">Greyshade theme</a> under the <a href="http://sm.mit-license.org/">MIT license</a> | <a href="/privacy">privacy</a> | <a href="/articles/blogtegrity">blogtegrity</a>
+</p>
 
-{% include disqus-counts.html %}
-{% include analytics.html %}
-
-</body>
-</html>
+{% include disqus.html %}
+{% include twitter_sharing.html %}

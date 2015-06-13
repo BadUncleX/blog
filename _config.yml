@@ -1,39 +1,42 @@
-# Jekyll configuration
-
-name: Alex Blog
-description: A jekyll theme
-
-# url is currently only used only for the RSS feed in feed.xml
+#
+# Blog Settings
+#
+author: Alex Wang
+description: Alex tech blog
 url: http://www.alexcoding.me
+title: Alex Blog
+subtitle: ...and you like it
+gravatar_url: ''
+subscribe_rss: ''
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: ''
+# Github repositories
+github_user: foxlog
+github_repo_url: https://github.com/foxlog/alexcode/
 
-# This can be '' to hide the Github nav button
-github: ''
-
-# Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
-
-# Set this to your disqus shortname to enable comments. Note that the 'comments'
-# setting below must also be true. Individual posts can override 'comments' to
-# disable on a post-by-post basis
-disqus: 'alexcoding'
-comments: true
+# Twitter
+twitter_user: foxlog
+twitter_tweet_button: true
 
 # Disqus Comments
-disqus_short_name: 'alexcoding'
+disqus_short_name: alexcoding
 disqus_show_comment_count: true
 
-permalink: /:year/:month/:title
-paginate: 10
+# Google Analytics
+google_analytics_tracking_id: ''
 
-highlighter: pygments
+
+#
+# Jekyll Settings
+#
 markdown: redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+  extensions: ["tables"]
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "page/:num"
+category_dir: categories
+highlighter: pygments
 
-exclude: ['README.md', 'LICENSE']
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
