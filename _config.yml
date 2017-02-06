@@ -28,7 +28,7 @@ google_analytics_tracking_id: ''
 #
 # Jekyll Settings
 #
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["tables"]
 permalink: /archive/:year/:month/:day/:title/
@@ -40,6 +40,6 @@ highlighter: pygments
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
-google_analytics: 
+google_analytics:
 show_downloads: true
 theme: jekyll-theme-modernist
