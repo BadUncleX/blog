@@ -29,13 +29,13 @@ google_analytics_tracking_id: ''
 # Jekyll Settings
 #
 markdown: kramdown
-redcarpet:
-  extensions: ["tables"]
+#redcarpet:
+extensions: ["tables"]
 permalink: /archive/:year/:month/:day/:title/
 paginate: 20
 paginate_path: "page/:num"
 category_dir: categories
-highlighter: pygments
+highlighter: rouge
 
 gems:
   - jekyll-redirect-from
