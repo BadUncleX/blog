@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "MIT 18.01 单变量微积分 导数和变化率"
+title:  "MIT 18.01 单变量微积分 01 导数和变化率"
 date:   2017-12-04 20:34:24 +0800
 categories: calculous mit
 ---
+<h2>Table of contents</h2>
+* TOC
 {:toc}
 
 [lecture notes](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/lecture-notes/lec1.pdf)
