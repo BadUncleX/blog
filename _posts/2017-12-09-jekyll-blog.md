@@ -2,7 +2,7 @@
 layout: post
 title:  " Jekyll blog configuration"
 date:   2017-12-09 15:34:24 +0800
-categories: calculous mit
+categories: jekyll
 math: true
 typora-copy-images-to: ../assets/images
 typora-root-url: ../../alexcode
