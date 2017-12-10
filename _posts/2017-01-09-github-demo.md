@@ -10,3 +10,10 @@ typora-root-url: ../../alexcode
 <h2>Table of contents</h2>
 * TOC
 {:toc}
+
+{% github_sample_ref /bwillis/versioncake/989237901cb873f96df12be48cbf1239be496bd7/Appraisals %}
+
+
+test
+
+{% github_sample_ref /foxlog/clojurelearn/blob/macro/src/clojurelearn/jdbcexamples.clj %}
