@@ -91,3 +91,39 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 
 
+## 继续语法高亮
+
+updated: 2017-12-10 22:58:53
+
+
+
+感觉在blog里放代码总有点分裂的感觉， 一份是本地的可运行代码， 一份是blog里的纯展示代码， 总感觉缺了点什么， 油水分离的感觉。 
+
+
+
+最后觉得还是通过gist集成起来比较好。 
+
+```html
+<script src="https://gist.github.com/foxlog/099cf7e6ee66e82199e2ca1f32b0fed0.js"></script>
+```
+
+
+
+另外， gist可以和其他代码一样git clone 到本地。 
+
+
+
+另外， 如果有多个文件需要考虑排序的问题， 最简单的方式是在文件的前缀加上序号， 比如：
+
+```html
+1_ruby_quicksort.rb
+2_keyboard_shortcuts.md
+3_cheesecake_recipe.md
+```
+
+
+
+示例：
+
+<script src="https://gist.github.com/foxlog/a09de354ab75a12c9e87a977b8b85d62.js"></script>
+
