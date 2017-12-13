@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "awesome clojure"
+title:  "simple awesome clojure"
 date:   2017-12-13 08:57:57 +0800
 categories: clojure awesome
 math: true
