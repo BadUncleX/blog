@@ -16,5 +16,7 @@ typora-root-url: ../../alexcode
 
 [PLA需要更新多少次才会停下来](http://www.alexcoding.me/ml/foundation/2017/12/14/learning-to-answer-yes-no.html#%E7%BB%83%E4%B9%A0-pla%E9%9C%80%E8%A6%81%E6%9B%B4%E6%96%B0%E5%A4%9A%E5%B0%91%E6%AC%A1%E6%89%8D%E4%BC%9A%E5%81%9C%E4%B8%)
 
+[hoeffding不等式](http://www.alexcoding.me/ml/foundation/2017/12/15/feasibility-of-learning.html#hoeffding%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A1%A5%E5%85%85)
+
 
 
