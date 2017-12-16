@@ -7,9 +7,7 @@ math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../alexcode
 ---
-<h2>Table of contents</h2>
-* TOC
-{:toc}
+
 
 
 ## 问题追踪
