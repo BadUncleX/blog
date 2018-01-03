@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "simple awesome clojure"
-date:   2017-12-13 08:57:57 +0800
+date:   2018-01-03 23:03:22 +0800
 categories: clojure awesome
 math: true
 typora-copy-images-to: ../assets/images/2017-12
@@ -23,12 +23,13 @@ typora-root-url: ../../alexcode
 - [Nightcode](https://sekao.net/nightcode/)(代码编辑器) (1178 ★)
 
 
-
-## web framework
+## web & html
 
 - [Compojure](https://github.com/weavejester/compojure) (3305 ★) (A concise routing library for Ring/Clojure)
 
 - [Luminus](http://www.luminusweb.net/) (Luminus is a Clojure micro-framework based on a set of lightweight libraries. It aims to provide a robust, scalable, and easy to use platform. With Luminus you can focus on developing your app the way you want without any distractions.)
+
+- [noir](https://github.com/noir-clojure/noir) (767 ★) 基本停止更新了， 上次更新是2012年
 
 - [Duct](https://github.com/weavejester/duct) (612 ★)Server-side application framework for Clojure. Duct is a highly modular framework for building server-side applications in Clojure using data-driven architecture.
 
@@ -48,7 +49,15 @@ typora-root-url: ../../alexcode
   - Asynchronous, efficient interceptor-chain design built on [manifold](https://github.com/ztellman/manifold)
   - Excellent performance, suitable for heavy production workloads
 
-  ​
+- [garden](https://github.com/noprompt/garden)  (875 ★ ) Generate CSS with Clojure. Garden is a library for rendering CSS in Clojure and ClojureScript. Conceptually similar to [Hiccup](https://github.com/weavejester/hiccup), it uses vectors to represent rules and maps to represent declarations. 
+
+
+
+## Authentication
+
+- [friend](https://github.com/cemerick/friend) （1104 ★） An extensible authentication and authorization library for Clojure Ring web applications and services.
+
+
 
 ## Build Automation and Package management
 
@@ -62,12 +71,39 @@ typora-root-url: ../../alexcode
 - [clj-http](https://github.com/dakrone/clj-http) (1141 ★) An idiomatic clojure http client wrapping the apache client. 
 - [http-kit](http://www.http-kit.org/) （1695 ★ by [shenfeng](https://github.com/shenfeng)）
 - [ring](https://github.com/ring-clojure/ring)（2414 ★） Clojure HTTP server abstraction。 Ring is a Clojure web applications library inspired by Python's WSGI and Ruby's Rack. By abstracting the details of HTTP into a simple, unified API, Ring allows web applications to be constructed of modular components that can be shared among a variety of applications, web servers, and web frameworks.
+- [riemann](https://github.com/riemann/riemann) (3463 ★) A network event stream processing system, in Clojure
+- [aleph](https://github.com/ztellman/aleph) (1912 ★ ) asynchronous communication for clojure
+- [core.async](https://github.com/clojure/core.async)  (1446 ★) Facilities for async programming and communication in Clojure
+
+
+
+
+## ClojureScript
+
+- [lein-figwheel](https://github.com/bhauman/lein-figwheel)  (2348 ★) Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
+
+## Testing
+
+- [Midje](https://github.com/marick/Midje)   (1349 ★ ) Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing
+
+
+
+## Logs
+
+- [timbre](https://github.com/ptaoussanis/timbre)  （1001 ★ ）  Pure Clojure/Script logging library 
+
+
+
+## Json
+
+- [cheshire](https://github.com/dakrone/cheshire)  （992 ★）Clojure JSON and JSON SMILE (binary json format) encoding/decoding
 
 
 
 ## ORM and SQL generation
 
 - [Korma](http://sqlkorma.com/) （1313 ★）
+- [yesql](https://github.com/krisajenkins/yesql)  (1251★ ) A Clojure library for using SQL. (个人很喜欢这个库， 有点java下的MyBatis的味道)
 
 
 
