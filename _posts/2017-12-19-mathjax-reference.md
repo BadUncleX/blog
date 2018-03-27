@@ -5,7 +5,7 @@ date:   2017-12-19 15:18:21 +0800
 categories: tools mathjax
 math: true
 typora-copy-images-to: ../assets/images/2017-12
-typora-root-url: ../../alexcode
+typora-root-url: ../../blog_alexcode
 ---
 
 

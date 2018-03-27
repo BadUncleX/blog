@@ -5,7 +5,7 @@ date:   2017-12-16 21:12:25 +0800
 categories: ml foundation
 math: true
 typora-copy-images-to: ../assets/images/2017-12
-typora-root-url: ../../alexcode
+typora-root-url: ../../blog_alexcode
 ---
 <h2>Table of contents</h2>
 * TOC

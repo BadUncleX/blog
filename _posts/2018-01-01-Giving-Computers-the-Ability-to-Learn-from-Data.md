@@ -5,7 +5,7 @@ date:   2018-01-01 11:53:28 +0800
 categories: ml python
 math: true
 typora-copy-images-to: ../assets/images/2018-01
-typora-root-url: ../../alexcode
+typora-root-url: ../../blog_alexcode
 ---
 <h2>Table of contents</h2>
 * TOC
