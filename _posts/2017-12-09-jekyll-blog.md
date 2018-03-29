@@ -6,7 +6,6 @@ categories: jekyll
 math: true
 typora-copy-images-to: ../assets/images
 typora-root-url: ../../alexcode
-tags: jekyll
 ---
 <h2>Table of contents</h2>
 * TOC

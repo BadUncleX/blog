@@ -2,8 +2,7 @@
 layout: post
 title:  " math jax"
 date:   2017-01-01 20:34:24 +0800
-categories: web js
-tags: web js jax
+categories: web js mathjax
 math: true
 ---
 <h2>Table of contents</h2>

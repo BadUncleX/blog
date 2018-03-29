@@ -2,11 +2,10 @@
 layout: post
 title:  " deps.edn sample用法 "
 date:   2018-03-28 15:34:24 +0800
-categories: clojure deps
+categories: clojure deps sample
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
-tags: clojure deps sample
 ---
 
 > deps.edn sample usage. reference : <https://github.com/seancorfield/dot-clojure/blob/master/deps.edn>

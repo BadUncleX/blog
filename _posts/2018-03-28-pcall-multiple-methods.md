@@ -2,11 +2,10 @@
 layout: post
 title:  " pcall并发执行多个无参方法 "
 date:   2018-03-28 20:34:24 +0800
-categories: clojure pcall
+categories: clojure future pcall concurrency
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
-tags: clojure future pcall concurrency
 ---
 
 

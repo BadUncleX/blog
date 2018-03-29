@@ -2,11 +2,10 @@
 layout: post
 title:  " 拷贝文件增加序号 "
 date:   2018-01-27 15:34:24 +0800
-categories: clojure shell
+categories: clojure file shell
 math: false
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
-tags: clojure copy file
 ---
 
 

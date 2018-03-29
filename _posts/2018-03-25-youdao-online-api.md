@@ -2,11 +2,10 @@
 layout: post
 title:  " 有道在线api单词查询 "
 date:   2018-03-25 18:34:24 +0800
-categories: clojure api
+categories: clojure api translate
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
-tags: clojure api translate
 ---
 
 

@@ -2,11 +2,10 @@
 layout: post
 title:  " clojure future用法 "
 date:   2018-03-28 15:34:24 +0800
-categories: clojure future
+categories: clojure future concurrency
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
-tags: clojure future concurrency
 ---
 
 

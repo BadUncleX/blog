@@ -2,11 +2,10 @@
 layout: post
 title:  "simple awesome clojure"
 date:   2018-01-03 23:03:22 +0800
-categories: clojure awesome
+categories: clojure awesome resources
 math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../alexcode
-tags: clojure awesome resources
 ---
 <h2>Table of contents</h2>
 * TOC

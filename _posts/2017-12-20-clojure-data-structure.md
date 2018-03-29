@@ -6,7 +6,6 @@ categories: clojure datastructure
 math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../blog_alexcode
-tags: clojure datastructure
 ---
 <h2>Table of contents</h2>
 * TOC

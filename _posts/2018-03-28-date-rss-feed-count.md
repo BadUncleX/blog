@@ -2,11 +2,10 @@
 layout: post
 title:  " rss feed word count "
 date:   2018-03-28 15:34:24 +0800
-categories: clojure future rss
+categories: clojure future rss zipper
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
-tags: clojure rss future zipper
 ---
 
 
