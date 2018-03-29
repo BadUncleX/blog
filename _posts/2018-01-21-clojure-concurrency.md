@@ -7,6 +7,7 @@ categories: clojure concurrency
 math: true
 typora-copy-images-to: ../assets/images/2018-01
 typora-root-url: ../../blog_alexcode
+tags: clojure concurrency
 ---
 <h2>Table of contents</h2>
 * TOC

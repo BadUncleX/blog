@@ -6,6 +6,7 @@ categories: tools mathjax
 math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../blog_alexcode
+tags: mathjax
 ---
 
 

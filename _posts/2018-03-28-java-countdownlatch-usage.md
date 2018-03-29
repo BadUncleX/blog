@@ -6,6 +6,7 @@ categories: java countdownlatch
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
+tags: java countdownlatch
 ---
 CountDownLatch 同步计时器用法， 比如运动员比赛， 同时准备好才能开始， 都结束了比赛才算结束. 
 

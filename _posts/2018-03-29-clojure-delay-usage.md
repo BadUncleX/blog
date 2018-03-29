@@ -6,6 +6,7 @@ categories: clojure delay
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
+tags: clojure delay concurrency threadpool datasource c3p0
 ---
 <h2>Table of contents</h2>
 

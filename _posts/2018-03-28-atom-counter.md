@@ -6,6 +6,7 @@ categories: clojure atom executor
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
+tags: clojure atom executor threadpool 
 ---
 java的Executor做线程池submit.  可以将atom的计时器方法在executor里多次执行， 看看有没有问题。 
 

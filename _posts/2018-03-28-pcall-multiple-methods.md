@@ -6,6 +6,7 @@ categories: clojure pcall
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
+tags: clojure future pcall concurrency
 ---
 
 

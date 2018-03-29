@@ -6,6 +6,7 @@ categories: clojure promise
 math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
+tags: clojure promise deadlock
 ---
 promise 实现确定性死锁， 即互相等待对方， 但是幸运的是， 这个死锁`每次都会发生`.
 
