@@ -4,7 +4,7 @@ title:  "Mac install lein with proxy"
 date:   2017-12-12 10:21:38 +0800
 categories: clojure lein
 typora-copy-images-to: ../assets/images/2017-12-12
-typora-root-url: ../../alexcode
+typora-root-url: ../../blog_alexcode
 ---
 <h2>Table of contents</h2>
 * TOC
