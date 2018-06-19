@@ -114,3 +114,7 @@ public StringBuilder append(String var1) {
 
 
  [C] 在频繁进行字符串的运算（如拼接、替换、删除等），并且运行在单线程环境下，建议使用StringBuilder，例如SQL语句拼装、JSON封装等。 
+
+
+
+> 本文笔记内容整理自极客时间陈浩
