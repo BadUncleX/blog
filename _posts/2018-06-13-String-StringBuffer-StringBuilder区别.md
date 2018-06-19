@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " java String, StringBuffer, StringBuilder区别 "
+title:  " java String, StringBuffer, StringBuilder "
 date:   2018-06-13 15:27:56 +0800
 categories: java StringBuffer StringBuilder
 typora-copy-images-to: ../assets/images/2018-06

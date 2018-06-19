@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  " java Exception和Error的区别 "
+title:  " java Exception and Error "
 date:   2018-06-13 15:24:46 +0800
 categories: java exception
 typora-copy-images-to: ../assets/images/2018-06
 typora-root-url: ../../blog_alexcode
 ---
 
-
-# java Exception和Error的区别
+# java Exception and Error
 
 
 
