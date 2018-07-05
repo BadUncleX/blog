@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " 100天第四天 golang methods "
+title:  " 100天第四天 golang methods interface "
 date:   2018-07-04 08:51:31 +0800
 categories: golang 100days
 typora-copy-images-to: ../assets/images/2018-07
