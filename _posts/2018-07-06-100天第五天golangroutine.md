@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 100天第五天 golang goroutine and channel"
-date:   2017-01-08 20:34:24 +0800
+date:   2018-07-06 12:22:12 +0800
 categories: golang 100days goroutine channel
 typora-copy-images-to: ../assets/images/2018-07
 typora-root-url: ../../blog_alexcode
