@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Demo!"
+title:  " Solidity语法与Truffle简介"
 date:   2018-07-27 22:05:56 +0800
 categories: solidity truffle
 typora-copy-images-to: ../assets/images/2018-07
