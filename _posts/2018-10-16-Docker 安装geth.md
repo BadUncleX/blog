@@ -9,6 +9,76 @@ typora-root-url: ../../blog_alexcode
 <h2>Table of contents</h2>
 * TOC
 {:toc}
+## 0 构建geth
+
+geth DockerFile：
+
+```dockerfile
+from ubuntu:16.04_2
+ENV PATH $PATH:/usr/lib/go-1.10/bin
+ENV PATH $PATH:/root/go-ethereum/build/bin
+RUN apt-get update && add-apt-repository -y ppa:gophers/archive \
+    && apt-get update && apt install  -y  build-essential  golang-1.10-go golang-1.10-doc  \
+    && cd  \
+    && git clone  https://github.com/ethereum/go-ethereum.git \
+    && cd go-ethereum \
+    && make geth
+
+RUN mkdir /data
+COPY Dockerfile /data
+
+
+VOLUME /root
+
+EXPOSE 8545 8546 30303 30303/udp
+ENTRYPOINT ["geth"]
+
+
+# clean
+RUN apt-get clean
+RUN rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /root/*.tar.gz /root/*.tgz /root/*.zip
+
+
+```
+
+```bash
+docker build -t geth -f Dockerfile .
+```
+
+> 这里的/root死活没用， 只能用/data了
+
+上面的ubuntu:16.04_2是在 16.04标准包上面做了部分优化， 包括常用软件包， 和本地代理， 以及将apt的数据源切换到阿里的镜像
+
+ubuntu:16.04_2 DockerFile：
+
+```dockerfile
+from ubuntu:16.04
+ENV https_proxy "http://alexhost.local:6152"
+ENV http_proxy "http://alexhost.local:6152"
+ENV all_proxy "socks5://alexhost.local:6153"
+
+RUN mv /etc/apt/sources.list /etc/apt/sources.list.backup
+
+#update aliyun mirror for apt-get
+COPY sources.list /etc/apt/
+
+RUN apt-get update  && apt-get install -y \
+    software-properties-common python-software-properties \
+    && apt-get update  && apt-get install -y \
+    net-tools iputils-ping \
+    build-essential  openssh-server \
+    libdb++-dev   libssl-dev  libreadline-dev  autoconf  curl wget vim git
+
+# clean
+RUN apt-get clean
+RUN rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /root/*.tar.gz /root/*.tgz /root/*.zip
+
+```
+
+
+
+
+
 
 
 ## 1 安装rinkeby 全节点测试网络
