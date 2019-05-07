@@ -16,11 +16,11 @@
 title: Alex coding blog
 email: idea.wangtj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Java Developer. Like Clojure. 
+  Rust developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.alexcoding.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: foxlog
-github_username:  foxlog
+github_username:  alexwanng
 
 permalink: /:year/:month/:title/
 
