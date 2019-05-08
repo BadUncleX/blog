@@ -27,4 +27,14 @@ update audio embedding.
 <p>/assets/audio/napianhai.mp3</p>
 
 ## embed youtube video with jekyll plugin
+
+```html
 <p> https://youtu.be/iMvdG4guQf4 </p>
+```
+> not work.
+
+## embed youtube video just with iframe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMvdG4guQf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> it's OK.
