@@ -39,8 +39,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Machine Learning, Algorithms, Reading and writing. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.alexcoding.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: foxlog
-github_username:  foxlog
+twitter_username: alexwanng
+github_username:  alexwanng
 
 # Build settings
 markdown: kramdown

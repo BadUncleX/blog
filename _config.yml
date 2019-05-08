@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Rust developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.alexcoding.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: foxlog
+twitter_username: alexwanng
 github_username:  alexwanng
 
 permalink: /:year/:month/:title/
