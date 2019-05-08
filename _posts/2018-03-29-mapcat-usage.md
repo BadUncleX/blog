@@ -11,7 +11,7 @@ mapcat用法:
 
 
 
- <script src="https://gist.github.com/foxlog/e34bb4c5bf7e60b506f53c897ba1f4ca.js"></script>
+ <script src="https://gist.github.com/alexwanng/e34bb4c5bf7e60b506f53c897ba1f4ca.js"></script>
 
 
 

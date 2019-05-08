@@ -104,7 +104,7 @@ updated: 2017-12-10 22:58:53
 最后觉得还是通过gist集成起来比较好。 
 
 ```html
-<script src="https://gist.github.com/foxlog/099cf7e6ee66e82199e2ca1f32b0fed0.js"></script>
+<script src="https://gist.github.com/alexwanng/099cf7e6ee66e82199e2ca1f32b0fed0.js"></script>
 ```
 
 
@@ -125,11 +125,11 @@ updated: 2017-12-10 22:58:53
 
 示例：
 
-<script src="https://gist.github.com/foxlog/a09de354ab75a12c9e87a977b8b85d62.js"></script>
+<script src="https://gist.github.com/alexwanng/a09de354ab75a12c9e87a977b8b85d62.js"></script>
 
 
 
-<script src="https://gist.github.com/foxlog/099cf7e6ee66e82199e2ca1f32b0fed0.js"></script>
+<script src="https://gist.github.com/alexwanng/099cf7e6ee66e82199e2ca1f32b0fed0.js"></script>
 
 
 

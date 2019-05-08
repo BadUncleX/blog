@@ -15,7 +15,7 @@ promise 实现确定性死锁， 即互相等待对方， 但是幸运的是， 
 
 
 
-<script src="https://gist.github.com/foxlog/6c80eed40a4b3b9665a4a04dadfe5f93.js"></script>
+<script src="https://gist.github.com/alexwanng/6c80eed40a4b3b9665a4a04dadfe5f93.js"></script>
 
 
 

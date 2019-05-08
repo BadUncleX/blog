@@ -13,7 +13,7 @@ typora-root-url: ../../blog_alexcode
 >
 > 用到future， zipper
 
-<script src="https://gist.github.com/foxlog/27ab50a79c716679e3b88ff70f5cf332.js"></script>
+<script src="https://gist.github.com/alexwanng/27ab50a79c716679e3b88ff70f5cf332.js"></script>
 
 
 

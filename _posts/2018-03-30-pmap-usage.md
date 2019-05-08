@@ -11,7 +11,7 @@ pmap 并发执行多个方法
 
 
 
- <script src="https://gist.github.com/foxlog/e7effb3a97f16b56a8064859e63fa7dd.js"></script>
+ <script src="https://gist.github.com/alexwanng/e7effb3a97f16b56a8064859e63fa7dd.js"></script>
 
 
 

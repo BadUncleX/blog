@@ -13,7 +13,7 @@ pcall 的底层还是future实现的.
 
 
 
-<script src="https://gist.github.com/foxlog/1f04d6741d2e15ace6c5f37686ebb7fb.js"></script>
+<script src="https://gist.github.com/alexwanng/1f04d6741d2e15ace6c5f37686ebb7fb.js"></script>
 
 
 

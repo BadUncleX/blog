@@ -15,7 +15,7 @@ CountDownLatch 同步计时器用法， 比如运动员比赛， 同时准备好
 
 
 
-<script src="https://gist.github.com/foxlog/9f0361251a3f1ab54f2cbdbd3a4e5eb3.js"></script>
+<script src="https://gist.github.com/alexwanng/9f0361251a3f1ab54f2cbdbd3a4e5eb3.js"></script>
 
 
 

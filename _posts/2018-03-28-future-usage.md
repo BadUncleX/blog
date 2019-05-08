@@ -13,7 +13,7 @@ future的用法举例:
 
 
 
-<script src="https://gist.github.com/foxlog/26e3c749e34e2980c4ea6faf420b994b.js"></script>
+<script src="https://gist.github.com/alexwanng/26e3c749e34e2980c4ea6faf420b994b.js"></script>
 
 
 

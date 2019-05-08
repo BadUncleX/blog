@@ -11,7 +11,7 @@ java的Executor做线程池submit.  可以将atom的计时器方法在executor�
 
 
 
-<script src="https://gist.github.com/foxlog/c8bcebaa1f7ddadd59178fa2701ce098.js"></script>
+<script src="https://gist.github.com/alexwanng/c8bcebaa1f7ddadd59178fa2701ce098.js"></script>
 
 
 

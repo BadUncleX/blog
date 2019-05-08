@@ -15,4 +15,4 @@ typora-root-url: ../../blog_alexcode
 
 
 
-<script src="https://gist.github.com/foxlog/55f309c5e21993d794217203fa45b5a2.js"></script>
+<script src="https://gist.github.com/alexwanng/55f309c5e21993d794217203fa45b5a2.js"></script>
