@@ -29,9 +29,11 @@ update audio embedding.
 ## embed youtube video with jekyll plugin
 
 ```html
-<p> https://youtu.be/iMvdG4guQf4 </p>
+<p>https://youtu.be/iMvdG4guQf4</p>
 ```
-> not work.
+<p>https://youtu.be/iMvdG4guQf4</p>
+
+> cannot have blank space.
 
 ## embed youtube video just with iframe
 
