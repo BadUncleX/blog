@@ -1,0 +1,14 @@
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/alexwanng/gitment/master/style/default.css">
+<script src="https://raw.githubusercontent.com/alexwanng/gitment/master/style/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'foxlog',
+    repo: 'foxlog.github.io',
+    oauth: {
+        client_id: '68f5e231adcc9c837fac',
+        client_secret: 'bd40d1be260b2023183376e3aa984b648b3591eb',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
