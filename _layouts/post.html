@@ -47,11 +47,13 @@ layout: default
     {{ content }}
   </div>
 
-{% comment %}
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
-{% endcomment %}
+<script src="https://utteranc.es/client.js"
+      repo="alexwanng/alexcode"
+      issue-term="pathname"
+      label="comments"
+      theme="github-light"
+      crossorigin="anonymous"
+      async>
+</script>
 
-{% include gitment.html %}
 </article>
