@@ -36,8 +36,8 @@ kramdown:
     syntax_highlighter: rouge 
 
 
-disqus:
-    shortname: alexcoding
+# disqus:
+#     shortname: alexcoding
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -50,4 +50,4 @@ disqus:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-google_analytics: UA-117323709-2
+# google_analytics: UA-117323709-2

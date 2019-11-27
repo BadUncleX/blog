@@ -75,7 +75,7 @@ ffmpeg -i input.mkv -filter:a "atempo=2.0" -vn output.mkv
 
 
 
-## trim video/audio
+## trim video/audio with start point
 
 Trim from 00:02:54.583 to the end of the file
 
@@ -91,3 +91,14 @@ Trim from 00:02:54.583 for 5 minutes (300 seconds)
 ffmpeg -i input.mp3 -ss 00:02:54.583 -t 300 -acodec copy output.mp3
 ```
 
+
+
+## trim video/audio with regular length
+
+
+
+```bash
+ffmpeg -i audio.wav -f segment -segment_time 60 -c copy audio%02d.wav
+```
+
+> 每60秒一个文件
