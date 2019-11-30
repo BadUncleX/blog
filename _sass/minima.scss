@@ -44,6 +44,8 @@ $on-laptop:        800px !default;
 // Import partials.
 @import
   "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/layout"
+  // remove the built-in syntax highlighting. 
+  // replacing with hlj
+  // "minima/syntax-highlighting"
 ;

@@ -26,15 +26,14 @@ permalink: /:year/:month/:title/
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+    input: GFM
+    #syntax_highlighter: rouge 
 # theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-kramdown:
-    input: GFM
-    syntax_highlighter: rouge 
-
 
 # disqus:
 #     shortname: alexcoding
