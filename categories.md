@@ -4,20 +4,6 @@ title: Categories
 permalink: /categories/
 ---
 
-<h2>Categories (summary)</h2>
-<ul>
-{% assign categories_list = site.categories %}
-  {% if categories_list.first[0] == null %}
-    {% for category in categories_list %}
-      <li><a href="#{{ category[0] }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
-    {% endfor %}
-  {% else %}
-    {% for category in categories_list %}
-      <li><a href="#{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
-    {% endfor %}
-  {% endif %}
-{% assign categories_list = nil %}
-</ul>
 
 {% for tag in site.categories %}
   <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
