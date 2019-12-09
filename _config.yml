@@ -17,8 +17,8 @@ title: Alex coding blog
 email: idea.wangtj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Rust developer.
-baseurl: "/alexcode" # the subpath of your site, e.g. /blog
-url: "https://alexwanng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.web3.wang" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexwanng
 github_username:  alexwanng
 
