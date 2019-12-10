@@ -14,6 +14,8 @@ typora-root-url: ../../blog_alexcode
 {:toc}
 
 
+
+
 ## Rust 语言的基本构成
 
 - 语言规范
@@ -96,8 +98,6 @@ typora-root-url: ../../blog_alexcode
 
 ### 所有权与引用
 
-<details><summary markdown='span'><strong>所有权与引用</strong></summary>
-
 所有权的转移： 当位置表达式出现在值上下文中。 
 
 ```rust
@@ -122,7 +122,7 @@ let b = &a;
 
 - & 引用 可以直接获取表达式的存储单元地址， 即内存位置
 
-- `let b = &a` 不会引起所有权转移， 因为 <span style="color:red;font-weight:bold"> 使用引用操作符已经将赋值表达式右侧变成了位置上下文 </span>, 只是共享内存地址 【因此， 本质上这里还是Copy， 只不过Copy的是内存地址】 
+- `let b = &a` 不会引起所有权转移， 因为 **使用引用操作符已经将赋值表达式右侧变成了位置上下文** , 只是共享内存地址 【因此， 本质上这里还是Copy， 只不过Copy的是内存地址】 
 
 - 要获取可变引用， 必须先声明可变绑定
 
@@ -151,8 +151,6 @@ let b = &a;
   ```
 
 
-
-</details>
 
 
 
