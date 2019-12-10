@@ -7,12 +7,14 @@ math: true
 typora-copy-images-to: ../assets/images/2019-12
 typora-root-url: ../../blog_alexcode
 ---
-编程之道之语言精要章节笔记
+> 编程之道之语言精要章节笔记
+
+
+* TOC
+{:toc}
 
 
 ## Rust 语言的基本构成
-
-<details><summary markdown='span'><strong>Rust语言的基本构成</strong></summary>
 
 - 语言规范
   - Rust Reference（语言结构用法描述、对内存模型、并发模型等内存描述， 基本原理和参考）
@@ -42,8 +44,6 @@ typora-root-url: ../../blog_alexcode
     - 运行可执行文件 cargo run
 
 
-
-</details>
 
 
 
