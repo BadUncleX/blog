@@ -85,6 +85,20 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+/** 
+*  自定义H2, H3, Strong style
+*/ 
+h2 {
+  color: rgb(2, 30, 170);font-size: 18px;font-weight: bold;box-sizing: border-box !important;margin-top: 30px;margin-bottom: 30px;
+}
+
+h3 {
+  color: rgb(18, 102, 167);font-size: 14px;font-weight: bold;box-sizing: border-box !important;margin-top: 15px;margin-bottom: 15px;
+}
+
+strong {
+  color: rgb(2, 30, 170);
+}
 
 
 /**
