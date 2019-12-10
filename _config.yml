@@ -22,7 +22,7 @@ url: "https://www.web3.wang" # the base hostname & protocol for your site, e.g. 
 twitter_username: alexwanng
 github_username:  alexwanng
 
-permalink: /:title/
+permalink: /:title
 
 # Build settings
 markdown: kramdown
