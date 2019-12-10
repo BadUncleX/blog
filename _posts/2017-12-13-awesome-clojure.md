@@ -7,7 +7,8 @@ math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../alexcode
 ---
-<h2>Table of contents</h2>
+Clojure 的资源小结
+
 * TOC
 {:toc}
 

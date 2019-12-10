@@ -7,7 +7,9 @@ math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+Clojure常用function
+
+
 * TOC
 {:toc}
 [reference from cheatsheet](https://clojure.org/api/cheatsheet)

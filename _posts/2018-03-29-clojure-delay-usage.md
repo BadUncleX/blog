@@ -7,7 +7,7 @@ math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+clojure delay usage
 
 
 

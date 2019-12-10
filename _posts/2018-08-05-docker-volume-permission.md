@@ -6,12 +6,12 @@ categories: docker 100days
 typora-copy-images-to: ../assets/images/2018-07
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+今天在Mac上跑docker的bitcoin全节点同步， 之前空间不够， 这次将空间直接挂在一个2TB的移动硬盘上。
+
+
 * TOC
 {:toc}
 
-
-今天在Mac上跑docker的bitcoin全节点同步， 之前空间不够， 这次将空间直接挂在一个2TB的移动硬盘上。 
 
 
 

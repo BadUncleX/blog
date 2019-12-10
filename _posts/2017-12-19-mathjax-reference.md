@@ -7,7 +7,7 @@ math: true
 typora-copy-images-to: ../assets/images/2017-12
 typora-root-url: ../../blog_alexcode
 ---
-
+mathjax常用符号
 
 
 [参考这里](http://blog.csdn.net/bone_ace/article/details/46400975)

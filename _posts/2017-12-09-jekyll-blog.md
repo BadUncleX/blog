@@ -7,7 +7,9 @@ math: true
 typora-copy-images-to: ../assets/images
 typora-root-url: ../../alexcode
 ---
-<h2>Table of contents</h2>
+jekyll blog configuration
+
+
 * TOC
 {:toc}
 

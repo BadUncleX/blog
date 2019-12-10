@@ -6,7 +6,9 @@ categories: ethereum 100days
 typora-copy-images-to: ../assets/images/2018-07
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+setup ethereum testnet
+
+
 * TOC
 {:toc}
 ## 安装geth客户端

@@ -7,6 +7,7 @@ math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
 ---
+pcall并发执行
 
 
 pcall 的底层还是future实现的. 

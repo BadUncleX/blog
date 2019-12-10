@@ -6,7 +6,9 @@ categories: rust 100days
 typora-copy-images-to: ../assets/images/2018-08
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+Rust hello world
+
+
 * TOC
 {:toc}
 ## rust install

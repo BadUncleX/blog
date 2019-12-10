@@ -7,8 +7,6 @@ math: true
 typora-copy-images-to: ../assets/images/2018-03
 typora-root-url: ../../blog_alexcode
 ---
-
-
 方法和参数被缓存。
 
 

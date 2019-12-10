@@ -6,7 +6,9 @@ categories: 以太坊 testrpc 100days
 typora-copy-images-to: ../assets/images/2018-07
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+以太坊 testrpc
+
+
 * TOC
 {:toc}
 geth是真正的以太坊环境, testrpc是在本地使用内存模拟的一个以太坊环境, 这对于开发调试来说更为方便快捷, 因为每次都是一个全新的环境, 便于重复测试.   一般可以将你的合约首先在testrpc中测试通过后, 再部署到geth中. 

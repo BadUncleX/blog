@@ -6,12 +6,12 @@ categories: 以太坊 100days
 typora-copy-images-to: ../assets/images/2018-07
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+from 从0到 1构建基于以太坊智能合约的 ICO DApp
+
+
 * TOC
 {:toc}
 
-
-> from 从0到 1构建基于以太坊智能合约的 ICO DApp
 
 
 

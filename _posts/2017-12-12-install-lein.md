@@ -6,7 +6,9 @@ categories: clojure lein
 typora-copy-images-to: ../assets/images/2017-12-12
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+Mac install lein with proxy
+
+
 * TOC
 {:toc}
 

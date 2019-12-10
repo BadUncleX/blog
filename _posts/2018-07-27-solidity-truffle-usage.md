@@ -6,7 +6,9 @@ categories: solidity truffle
 typora-copy-images-to: ../assets/images/2018-07
 typora-root-url: ../../blog_alexcode
 ---
-<h2>Table of contents</h2>
+Solidity语法与Truffle简介
+
+
 * TOC
 {:toc}
 
