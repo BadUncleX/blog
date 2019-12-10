@@ -34,6 +34,12 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+excerpt_separator: "\n\n"
+paginate_path: "page:num"
+
 
 # disqus:
 #     shortname: alexcoding

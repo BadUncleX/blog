@@ -15,6 +15,7 @@ gem "minima", "~> 2.0"
 
 # 
 gem "jekyll-sitemap"
+gem 'jekyll-paginate'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
